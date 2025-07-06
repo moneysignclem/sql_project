@@ -50,3 +50,14 @@ UPDATE Student
 
 -- Drop the entire Student table when done
 DROP TABLE Student;
+
+CREATE TABLE Student (
+    STUDENT_NUMBER CHAR(6) PRIMARY KEY,
+    SURNAME        VARCHAR(15),
+    FIRST_NAME     VARCHAR(15),
+    MIDDLE_INITIAL CHAR(1),
+    START_DATE     DATE,
+    COURSE_CODE    CHAR(3),
+    PROJECT_NUMBER INT
+);
+-- Insert all the student records into the Student table
