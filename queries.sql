@@ -9,6 +9,16 @@ CREATE TABLE Student (
     PROJ_NUM      INT
 );
 
+--Insert student data into Student table
+
+-- Query to find all students enrolled in course 305
+
+-- Delete Jamie Lannister’s record
+
+-- Update project numbers for certain students
+
+-- Drop the Student table
+
 -- Insert all the student records into the Student table
 INSERT INTO Student VALUES ('01', 'Snow',      'Jon',     'E', '2014-04-05', '201', 6);
 INSERT INTO Student VALUES ('02', 'Stark',     'Arya',    'C', '2017-07-12', '305', 11);
