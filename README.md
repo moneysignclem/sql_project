@@ -1,3 +1,5 @@
+
+
 # SQL Queries Project
 
 ## 📄 Description
@@ -9,16 +11,15 @@ This project contains a set of SQL queries that demonstrate my understanding of 
 
 It was completed as part of my software engineering training.
 
-## 📚 Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Credits](#credits)
+## Installation
 
-## ⚙️ Installation
 This project doesn't require installation. You can view the queries by:
 1. Cloning this repository:
    ```bash
    git clone https://github.com/moneysignclem/sql_project
+
+    
+## Authors
+
+- [@clement](https://github.com/moneysignclem)
 
